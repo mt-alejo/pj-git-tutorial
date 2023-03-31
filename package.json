@@ -1,0 +1,15 @@
+{
+  "name": "pj-git-tutorial",
+  "version": "1.0.0",
+  "description": "This is a simple git@tutorial to understand the basics of this amazing technology.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["git", "git-tutorial", "git-basics"],
+  "author": "Ariel Alejandro",
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
+}
