@@ -23,7 +23,8 @@ h1{
     height: 30vh;
     width: 30vw;
     line-height: 30vh;
-    border: 1px solid white;
 
-    background: purple;  
+    border: 1px solid black;
+    background: orangered;
+    color: black;
 }
