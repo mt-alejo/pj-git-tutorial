@@ -35,6 +35,10 @@ git push
 # Leads the last commit to the remote repo.
 
 ```
+## State of files in GIT
+- Staged
+- Modified
+- Commited
 
 ## Contributing
 
