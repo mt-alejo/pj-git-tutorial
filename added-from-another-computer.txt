@@ -1,1 +1,2 @@
 This is from another parther's computer!
+Now I've changed my git user.email
